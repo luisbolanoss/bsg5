@@ -4,5 +4,8 @@ gradle
 gradlew
 gradlew.bat
 
+# IntelliJDEA
+.idea
+
 # Ignore Gradle build output directory
 build
